@@ -4,7 +4,7 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is an Flutter application for AI application for Fashion measurement and store.
 
 A few resources to get you started if this is your first Flutter project:
 
